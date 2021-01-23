@@ -5,6 +5,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The repo</a>
+      </li>
   </ol>
 </details>
 
@@ -29,3 +30,7 @@ xx: Tr if it is a traingin , Pr if it is a project
 
 example: 23_01_2021_Arduino_Tr : the name of the repo of the training caalled Arduino dating in 23/01/2021
 
+
+##Content:
+
+<li> <a href="https://github.com/DevelopedTunisia/2021_01_23_Arduino1_Tr"> <strong>2021_01_23_Arduino1_Tr »</strong> </a> </li>

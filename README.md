@@ -12,7 +12,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Repo
 
 This is the main repository that contains links to several projects, and source codes of different trainings
 
